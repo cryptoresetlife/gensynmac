@@ -4,10 +4,9 @@ https://github.com/cryptoresetlife/gensynmac/blob/main/install_rl_swarm_mac_upda
 ## 第2️⃣步:打开终端运行
 ```bash
 cd ~/Downloads
-unzip install_rl_swarm_mac_updated.zip
+unzip install_rl_swarm_mac_final.zip
 chmod +x install_rl_swarm_mac.sh
 ./install_rl_swarm_mac.sh
-
 
 ```
 ## 第3️⃣步:
