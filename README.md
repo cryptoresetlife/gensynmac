@@ -1,6 +1,6 @@
 # gensynmac
 ## 第1️⃣步: 下载脚本包
-https://github.com/cryptoresetlife/gensynmac/blob/main/install_rl_swarm_mac_updated.zip
+https://github.com/cryptoresetlife/gensynmac/blob/main/install_rl_swarm_mac_final.zip
 ## 第2️⃣步:打开终端运行
 ```bash
 cd ~/Downloads
