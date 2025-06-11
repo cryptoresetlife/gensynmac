@@ -28,7 +28,8 @@ chmod +x install_rl_swarm_mac.sh
 <img width="1119" alt="image" src="https://github.com/user-attachments/assets/645647e2-9838-4a2a-a7c6-56528f757c72" />
 
 ## 可以在这里输入🐱后面的id查询
-https://dashboard-math.gensyn.ai/
+https://dashboard-math.gensyn.ai/  
+
 <img width="533" alt="image" src="https://github.com/user-attachments/assets/fc7fc2d1-ec6c-47cd-8feb-9e81856df81b" />
 
 ## 备份swarm.pem文件到桌面
