@@ -32,7 +32,9 @@ https://dashboard-math.gensyn.ai/
 <img width="533" alt="image" src="https://github.com/user-attachments/assets/fc7fc2d1-ec6c-47cd-8feb-9e81856df81b" />
 
 ## 备份swarm.pem文件到桌面
+```bash
 cp ~/Downloads/rl-swarm/swarm.pem ~/Desktop/swarm.pem.backup
+```
 
 
 
